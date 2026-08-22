@@ -206,12 +206,7 @@ If redistribution is not allowed, keep the dataset out of the repository and put
 
 > Developed an interactive Spotify music analytics dashboard using Power BI and DAX to analyze song popularity, artists, album types, explicit content, rankings, and time-based trends. Created reusable measures and interactive visualizations to transform raw music data into meaningful analytical insights.
 
-## 👤 Author
-
-**Yashaswi Aditya**
-
-- GitHub: https://github.com/2305020
-- LinkedIn: www.linkedin.com/in/yashaswi-aditya-1337462a2
 
 
-⭐ If you find this project useful, consider starring the repository.
+
+
